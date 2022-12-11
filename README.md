@@ -40,19 +40,18 @@ Atau download `libraries` dan upload pada direktori projek.
 1. Buka Arduino IDE
 2. Buka **Sketch** > **Include Library** > **Library Manager**
 3. Cari **DHT sensor library** by Adafruit. Kemudian instal.
-    - Atau dapat melalui link https://github.com/adafruit/DHT-sensor-library dan upload pada libraries di direktori projek
+    - Atau dapat melalui link [DHT Library](https://github.com/adafruit/DHT-sensor-library) dan upload pada libraries di direktori projek
 4. Instal juga library **Adafruit unified sensor** by Adafruit
-    - Atau dapat melalui link https://github.com/adafruit/Adafruit_Sensor dan upload pada libraries di direktori projek
+    - Atau dapat melalui link [Adafruit Sensor](https://github.com/adafruit/Adafruit_Sensor) dan upload pada libraries di direktori projek
 
 Nb. Proses instalasi dapat dilewati jika libraries telah diinstal.
 Atau download `libraries` dan upload pada direktori projek.
 
 ### Instalasi Servo Libraries
 
-1. Buka Arduino IDE
-2. Buka **Sketch** > **Include Library** > **Library Manager**
-3. Cari **x** by x. Kemudian instal
-4. Instal juga library **x** by x
+1. Download [Servo Library](https://github.com/RoboticsBrno/ESP32-Arduino-Servo-Library/archive/master.zip) kemudian ekstrak.
+2. Masukkan folder **ESP32-Arduino-Servo-Library-Master** ke dalam libraries projek dan rename menjadi **ESP32_Arduino_Servo_Library**
+3. Buka ulang Arduino IDE.
 
 Nb. Proses instalasi dapat dilewati jika libraries telah diinstal.
 Atau download `libraries` dan upload pada direktori projek.
@@ -81,13 +80,13 @@ Pada saat idle, maka nilai dari pin touch0 atau GPIO4 berada di atas 64. Jika ba
 
 Berdasarkan nilai treshold yang sudah didapatkan yaitu sekitar 25-30, maka pada program dibuat perkondisian jika nilai dibawah treshold maka LED akan menyala dan sebaliknya.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051436607066083338/A._Capacitive_Sensor_Tugas_1.gif" width="480px">
+https://user-images.githubusercontent.com/49542850/206910388-c3ed11f1-e69b-497a-b94f-da8c62d86bd3.mp4
 
 ### Tugas A no. 7
 
 Pengembangan dari tugas no. 6, hasil dari LED menyala diubah menjadi blink setiap beberapa ms.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051438247378698291/A._Capacitive_Touch_Tugas2.gif" width="480px">
+https://user-images.githubusercontent.com/49542850/206910395-0c2a6532-19ca-4c8f-b5c4-7f695f1133f3.mp4
 
 ### Tugas A no. 8
 
@@ -99,7 +98,7 @@ Pengembangan dari tugas no. 6, yaitu dengan menambah sebuah variabel hitungan ya
 
 Pengembangan dari tugas no. 6, yaitu dengan mengubah kondisi LED agar menyala secara bergantian hingga satu rotasi penuh saat dibawah nilai treshold dan mematikan seluruh LED saat lebih tinggi dari treshold.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051440661116768276/A._Capacitive_Touch_Tugas4.gif" width="480px">
+https://user-images.githubusercontent.com/49542850/206910407-c9387493-d962-4701-8f93-8dfe24f04473.mp4
 
 ## Project B - Sensor DHT
 
@@ -153,7 +152,7 @@ Sensor RFID akan membaca kartu RFID yang masing-masing memiliki _unique mac addr
 
 <img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504836014784522/C._RFID.png" width="480px">
 
-https://cdn.discordapp.com/attachments/1043462519336996894/1051507565420363866/C._RFID.mp4
+https://user-images.githubusercontent.com/49542850/206910208-4912f5ef-f3ea-4ebc-94e4-2878b3abd4db.mp4
 
 ### Tugas C no. 5
 
@@ -167,4 +166,4 @@ Setelah identitas kartu RFID didapatkan pada percobaan sebelumnya, maka address 
 
 Saat kartu RFID yang benar dibaca sensor, maka servo akan berputar dan LED menyala hijau. Sebaliknya hanya akan memberikan LED berwarna merah.
 
-https://cdn.discordapp.com/attachments/1043462519336996894/1051507601508147293/C._RFID_Tugas1.mp4
+https://user-images.githubusercontent.com/49542850/206910214-d9e4f235-cc73-4322-b5b0-337dbce9be23.mp4
