@@ -40,9 +40,9 @@ Atau download `libraries` dan upload pada direktori projek.
 1. Buka Arduino IDE
 2. Buka **Sketch** > **Include Library** > **Library Manager**
 3. Cari **DHT sensor library** by Adafruit. Kemudian instal.
-    - Atau dapat melalui link [DHT Library](https://github.com/adafruit/DHT-sensor-library) dan upload pada libraries di direktori projek
+    - Atau dapat melalui link [DHT Library](https://github.com/adafruit/DHT-sensor-library) dan upload pada libraries di direktori projek. Rename direktori menjadi **DHT_sensor_library**.
 4. Instal juga library **Adafruit unified sensor** by Adafruit
-    - Atau dapat melalui link [Adafruit Sensor](https://github.com/adafruit/Adafruit_Sensor) dan upload pada libraries di direktori projek
+    - Atau dapat melalui link [Adafruit Sensor](https://github.com/adafruit/Adafruit_Sensor) dan upload pada libraries di direktori projek. Rename direktori menjadi **Adafruit_Unified_Sensor**.
 
 Nb. Proses instalasi dapat dilewati jika libraries telah diinstal.
 Atau download `libraries` dan upload pada direktori projek.
@@ -52,6 +52,15 @@ Atau download `libraries` dan upload pada direktori projek.
 1. Download [Servo Library](https://github.com/RoboticsBrno/ESP32-Arduino-Servo-Library/archive/master.zip) kemudian ekstrak.
 2. Masukkan folder **ESP32-Arduino-Servo-Library-Master** ke dalam libraries projek dan rename menjadi **ESP32_Arduino_Servo_Library**
 3. Buka ulang Arduino IDE.
+
+Nb. Proses instalasi dapat dilewati jika libraries telah diinstal.
+Atau download `libraries` dan upload pada direktori projek.
+
+### Instalasi MFRC522 (RFID) Libraries
+
+1. Buka Arduino IDE
+2. Buka **Sketch** > **Include Library** > **Library Manager**
+3. Cari **MFRC522** by GithubCommunity. Kemudian instal.
 
 Nb. Proses instalasi dapat dilewati jika libraries telah diinstal.
 Atau download `libraries` dan upload pada direktori projek.
