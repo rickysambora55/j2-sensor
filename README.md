@@ -72,7 +72,7 @@ Atau download `libraries` dan upload pada direktori projek.
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051432306742661180/A._Rangkaian_Capacitive_Touch.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051432306742661180/A._Rangkaian_Capacitive_Touch.png" width="600px">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Buka serial monitor untuk melihat raw data. Ubah tampilan serial monitor menjadi Serial Plotter pada menu **Tools** > **Serial Plotter** untuk menampilkan grafik.
@@ -83,7 +83,7 @@ Pada saat idle, maka nilai dari pin touch0 atau GPIO4 berada di atas 64. Jika ba
 
 ### Keluaran
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051435089067778078/A._Capacitive_Touch.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051435089067778078/A._Capacitive_Touch.png" width="600px">
 
 ### Tugas A no. 6
 
@@ -101,7 +101,7 @@ https://user-images.githubusercontent.com/49542850/206910395-0c2a6532-19ca-4c8f-
 
 Pengembangan dari tugas no. 6, yaitu dengan menambah sebuah variabel hitungan yang akan ditambahkan 1 setiap nilai dibawah treshold.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051438733628547083/A._Capacitive_Touch_Tugas3.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051438733628547083/A._Capacitive_Touch_Tugas3.png" width="600px">
 
 ### Tugas A no. 9
 
@@ -116,7 +116,7 @@ https://user-images.githubusercontent.com/49542850/206910407-c9387493-d962-4701-
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441154102673469/B._Rangkaian_DHT.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441154102673469/B._Rangkaian_DHT.png" width="600px">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Pastikan library DHT dan Adafruit sudah terinstal.
@@ -127,7 +127,7 @@ Sensor DHT (yang digunakan adalah DHT11) akan membaca data berupa suhu ruangan, 
 
 ### Keluaran
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441808548302888/B._Sensor_DHT.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441808548302888/B._Sensor_DHT.png" width="600px">
 
 ### Tugas B no. 4
 
@@ -148,7 +148,7 @@ https://user-images.githubusercontent.com/49542850/206898713-3ffcd6a4-ea9f-4853-
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504796655431820/C._Rangkaian_RFID.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504796655431820/C._Rangkaian_RFID.png" width="600px">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Pastikan library MFRC522 sudah terinstal.
@@ -159,7 +159,7 @@ Sensor RFID akan membaca kartu RFID yang masing-masing memiliki _unique mac addr
 
 ### Keluaran
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504836014784522/C._RFID.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504836014784522/C._RFID.png" width="600px">
 
 https://user-images.githubusercontent.com/49542850/206910208-4912f5ef-f3ea-4ebc-94e4-2878b3abd4db.mp4
 
@@ -167,7 +167,7 @@ https://user-images.githubusercontent.com/49542850/206910208-4912f5ef-f3ea-4ebc-
 
 1. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504797087436921/C._Rangkaian_RFID_Tugas1.png" width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504797087436921/C._Rangkaian_RFID_Tugas1.png" width="600px">
 
 2. Pastikan library servo sudah terinstal.
 
