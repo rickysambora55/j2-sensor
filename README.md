@@ -111,6 +111,7 @@ Pengembangan dari tugas no. 6, yaitu dengan mengubah kondisi LED agar menyala se
 <img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441154102673469/B._Rangkaian_DHT.png" width="480px">
 
 3. Download dan jalankan kode dari source code sesuai project.
+4. Pastikan library DHT dan Adafruit sudah terinstal.
 
 ### Penjelasan
 
@@ -132,4 +133,38 @@ https://user-images.githubusercontent.com/49542850/206898685-5073100e-5814-4451-
 
 https://user-images.githubusercontent.com/49542850/206898713-3ffcd6a4-ea9f-4853-8dfc-1a232c3f6ccf.mp4
 
+## Project C - Sensor RFID
 
+### Rangkaian & Instalasi
+
+1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
+2. Buat rangkaian berikut.
+
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504796655431820/C._Rangkaian_RFID.png" width="480px">
+
+3. Download dan jalankan kode dari source code sesuai project.
+4. Pastikan library MFRC522 sudah terinstal.
+
+### Penjelasan
+
+Sensor RFID akan membaca kartu RFID yang masing-masing memiliki _unique mac address_. Dari _address_ ini kemudian dipakai untuk mengidentifikasi _address_ kartu yang diterima dan yang ditolak. Pada awal percobaan ini dilakukan pembacaan _address_ untuk mendaftarkan _address_ tersebut ke dalam kode (_hard coded_).
+
+### Keluaran
+
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504836014784522/C._RFID.png" width="480px">
+
+https://cdn.discordapp.com/attachments/1043462519336996894/1051507565420363866/C._RFID.mp4
+
+### Tugas C no. 5
+
+1. Buat rangkaian berikut.
+
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504797087436921/C._Rangkaian_RFID_Tugas1.png" width="480px">
+
+2. Pastikan library servo sudah terinstal.
+
+Setelah identitas kartu RFID didapatkan pada percobaan sebelumnya, maka address dimasukan pada kode sebagai address yang diterima sedangkan address lain akan ditolak. Sehingga didapatkan perkondisian baru. Pada perkondisian ini juga diberikan input LED dan servo.
+
+Saat kartu RFID yang benar dibaca sensor, maka servo akan berputar dan LED menyala hijau. Sebaliknya hanya akan memberikan LED berwarna merah.
+
+https://cdn.discordapp.com/attachments/1043462519336996894/1051507601508147293/C._RFID_Tugas1.mp4
