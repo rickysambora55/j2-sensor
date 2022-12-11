@@ -126,8 +126,10 @@ Pengembangan dari projek B, yaitu menambah perkondisian dengan parameter suhu ce
 
 1. Dibawah 30 celcius
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051445500513112115/B._Sensor_DHT_Tugas1_OFF.mp4" width="480px">
+https://user-images.githubusercontent.com/49542850/206898685-5073100e-5814-4451-b6bf-74e835e68ad8.mp4
 
 2. Diatas 30 celcius
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051445233172365332/B._Sensor_DHT_Tugas1_ON.mp4" width="480px">
+https://user-images.githubusercontent.com/49542850/206898713-3ffcd6a4-ea9f-4853-8dfc-1a232c3f6ccf.mp4
+
+
