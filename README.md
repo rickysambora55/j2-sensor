@@ -72,7 +72,7 @@ Atau download `libraries` dan upload pada direktori projek.
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://github.com/user-attachments/assets/09a1e853-461e-4980-ba1c-afedd9b4eac2" width="600px">
+<img src="https://github.com/user-attachments/assets/09a1e853-461e-4980-ba1c-afedd9b4eac2" width="100%">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Buka serial monitor untuk melihat raw data. Ubah tampilan serial monitor menjadi Serial Plotter pada menu **Tools** > **Serial Plotter** untuk menampilkan grafik.
@@ -83,7 +83,7 @@ Pada saat idle, maka nilai dari pin touch0 atau GPIO4 berada di atas 64. Jika ba
 
 ### Keluaran
 
-<img src="https://github.com/user-attachments/assets/81522bfd-403a-42cd-984b-35173e8cae94" width="600px">
+<img src="https://github.com/user-attachments/assets/81522bfd-403a-42cd-984b-35173e8cae94" width="100%">
 
 ### Tugas A no. 6
 
@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/d130ce68-3f18-45ea-98e4-3cc6f6eb1262
 
 Pengembangan dari tugas no. 6, yaitu dengan menambah sebuah variabel hitungan yang akan ditambahkan 1 setiap nilai dibawah treshold.
 
-<img src="https://github.com/user-attachments/assets/c5f57c23-5adf-41bf-a8cc-95babe8fdc88" width="600px">
+<img src="https://github.com/user-attachments/assets/c5f57c23-5adf-41bf-a8cc-95babe8fdc88" width="100%">
 
 ### Tugas A no. 9
 
@@ -116,7 +116,7 @@ https://github.com/user-attachments/assets/d1cd627c-7164-41f8-8ec5-282d48874c16
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://github.com/user-attachments/assets/999d5069-33c2-444e-a88d-bd603b3fd20a" width="600px">
+<img src="https://github.com/user-attachments/assets/999d5069-33c2-444e-a88d-bd603b3fd20a" width="100%">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Pastikan library DHT dan Adafruit sudah terinstal.
@@ -127,7 +127,7 @@ Sensor DHT (yang digunakan adalah DHT11) akan membaca data berupa suhu ruangan, 
 
 ### Keluaran
 
-<img src="https://github.com/user-attachments/assets/315bab03-e865-427b-b2b0-a5b5ddc1e536" width="600px">
+<img src="https://github.com/user-attachments/assets/315bab03-e865-427b-b2b0-a5b5ddc1e536" width="100%">
 
 ### Tugas B no. 4
 
@@ -148,7 +148,7 @@ https://github.com/user-attachments/assets/9dd3d72d-e1d9-41cb-8904-01019b882c57
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://github.com/user-attachments/assets/63118b40-1296-4282-8ae2-6a8e684bbc7d" width="600px">
+<img src="https://github.com/user-attachments/assets/63118b40-1296-4282-8ae2-6a8e684bbc7d" width="100%">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Pastikan library MFRC522 sudah terinstal.
@@ -159,7 +159,7 @@ Sensor RFID akan membaca kartu RFID yang masing-masing memiliki _unique mac addr
 
 ### Keluaran
 
-<img src="https://github.com/user-attachments/assets/8b113aae-813a-481c-915f-50b80185de8f" width="600px">
+<img src="https://github.com/user-attachments/assets/8b113aae-813a-481c-915f-50b80185de8f" width="100%">
 
 https://github.com/user-attachments/assets/43ebe8c3-c8fd-4091-94da-8a96d1a8a291
 
@@ -167,7 +167,7 @@ https://github.com/user-attachments/assets/43ebe8c3-c8fd-4091-94da-8a96d1a8a291
 
 1. Buat rangkaian berikut.
 
-<img src="https://github.com/user-attachments/assets/4a75a0ec-0e89-4993-8bcc-b43790d40162" width="600px">
+<img src="https://github.com/user-attachments/assets/4a75a0ec-0e89-4993-8bcc-b43790d40162" width="100%">
 
 2. Pastikan library servo sudah terinstal.
 
