@@ -72,7 +72,7 @@ Atau download `libraries` dan upload pada direktori projek.
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051432306742661180/A._Rangkaian_Capacitive_Touch.png" width="600px">
+<img src="https://github.com/user-attachments/assets/09a1e853-461e-4980-ba1c-afedd9b4eac2" width="600px">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Buka serial monitor untuk melihat raw data. Ubah tampilan serial monitor menjadi Serial Plotter pada menu **Tools** > **Serial Plotter** untuk menampilkan grafik.
@@ -83,31 +83,31 @@ Pada saat idle, maka nilai dari pin touch0 atau GPIO4 berada di atas 64. Jika ba
 
 ### Keluaran
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051435089067778078/A._Capacitive_Touch.png" width="600px">
+<img src="https://github.com/user-attachments/assets/81522bfd-403a-42cd-984b-35173e8cae94" width="600px">
 
 ### Tugas A no. 6
 
 Berdasarkan nilai treshold yang sudah didapatkan yaitu sekitar 25-30, maka pada program dibuat perkondisian jika nilai dibawah treshold maka LED akan menyala dan sebaliknya.
 
-https://user-images.githubusercontent.com/49542850/206910388-c3ed11f1-e69b-497a-b94f-da8c62d86bd3.mp4
+https://github.com/user-attachments/assets/09dcc16e-748b-4ef9-94cf-461fcf0fea1e
 
 ### Tugas A no. 7
 
 Pengembangan dari tugas no. 6, hasil dari LED menyala diubah menjadi blink setiap beberapa ms.
 
-https://user-images.githubusercontent.com/49542850/206910395-0c2a6532-19ca-4c8f-b5c4-7f695f1133f3.mp4
+https://github.com/user-attachments/assets/d130ce68-3f18-45ea-98e4-3cc6f6eb1262
 
 ### Tugas A no. 8
 
 Pengembangan dari tugas no. 6, yaitu dengan menambah sebuah variabel hitungan yang akan ditambahkan 1 setiap nilai dibawah treshold.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051438733628547083/A._Capacitive_Touch_Tugas3.png" width="600px">
+<img src="https://github.com/user-attachments/assets/c5f57c23-5adf-41bf-a8cc-95babe8fdc88" width="600px">
 
 ### Tugas A no. 9
 
 Pengembangan dari tugas no. 6, yaitu dengan mengubah kondisi LED agar menyala secara bergantian hingga satu rotasi penuh saat dibawah nilai treshold dan mematikan seluruh LED saat lebih tinggi dari treshold.
 
-https://user-images.githubusercontent.com/49542850/206910407-c9387493-d962-4701-8f93-8dfe24f04473.mp4
+https://github.com/user-attachments/assets/d1cd627c-7164-41f8-8ec5-282d48874c16
 
 ## Project B - Sensor DHT
 
@@ -116,7 +116,7 @@ https://user-images.githubusercontent.com/49542850/206910407-c9387493-d962-4701-
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441154102673469/B._Rangkaian_DHT.png" width="600px">
+<img src="https://github.com/user-attachments/assets/999d5069-33c2-444e-a88d-bd603b3fd20a" width="600px">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Pastikan library DHT dan Adafruit sudah terinstal.
@@ -127,7 +127,7 @@ Sensor DHT (yang digunakan adalah DHT11) akan membaca data berupa suhu ruangan, 
 
 ### Keluaran
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051441808548302888/B._Sensor_DHT.png" width="600px">
+<img src="https://github.com/user-attachments/assets/315bab03-e865-427b-b2b0-a5b5ddc1e536" width="600px">
 
 ### Tugas B no. 4
 
@@ -135,11 +135,11 @@ Pengembangan dari projek B, yaitu menambah perkondisian dengan parameter suhu ce
 
 1. Dibawah 30 celcius
 
-https://user-images.githubusercontent.com/49542850/206898685-5073100e-5814-4451-b6bf-74e835e68ad8.mp4
+https://github.com/user-attachments/assets/602f870f-f30e-4639-9ade-754af3004320
 
 2. Diatas 30 celcius
 
-https://user-images.githubusercontent.com/49542850/206898713-3ffcd6a4-ea9f-4853-8dfc-1a232c3f6ccf.mp4
+https://github.com/user-attachments/assets/9dd3d72d-e1d9-41cb-8904-01019b882c57
 
 ## Project C - Sensor RFID
 
@@ -148,7 +148,7 @@ https://user-images.githubusercontent.com/49542850/206898713-3ffcd6a4-ea9f-4853-
 1. Siapkan ESP32 dan hubungkan ke Arduino IDE.
 2. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504796655431820/C._Rangkaian_RFID.png" width="600px">
+<img src="https://github.com/user-attachments/assets/63118b40-1296-4282-8ae2-6a8e684bbc7d" width="600px">
 
 3. Download dan jalankan kode dari source code sesuai project.
 4. Pastikan library MFRC522 sudah terinstal.
@@ -159,15 +159,15 @@ Sensor RFID akan membaca kartu RFID yang masing-masing memiliki _unique mac addr
 
 ### Keluaran
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504836014784522/C._RFID.png" width="600px">
+<img src="https://github.com/user-attachments/assets/8b113aae-813a-481c-915f-50b80185de8f" width="600px">
 
-https://user-images.githubusercontent.com/49542850/206910208-4912f5ef-f3ea-4ebc-94e4-2878b3abd4db.mp4
+https://github.com/user-attachments/assets/43ebe8c3-c8fd-4091-94da-8a96d1a8a291
 
 ### Tugas C no. 5
 
 1. Buat rangkaian berikut.
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1051504797087436921/C._Rangkaian_RFID_Tugas1.png" width="600px">
+<img src="https://github.com/user-attachments/assets/4a75a0ec-0e89-4993-8bcc-b43790d40162" width="600px">
 
 2. Pastikan library servo sudah terinstal.
 
@@ -175,7 +175,7 @@ Setelah identitas kartu RFID didapatkan pada percobaan sebelumnya, maka address 
 
 Saat kartu RFID yang benar dibaca sensor, maka servo akan berputar dan LED menyala hijau. Sebaliknya hanya akan memberikan LED berwarna merah.
 
-https://user-images.githubusercontent.com/49542850/206910214-d9e4f235-cc73-4322-b5b0-337dbce9be23.mp4
+https://github.com/user-attachments/assets/d5f81f1b-b5a1-4b4b-be44-25ec3352b309
 
 ## Kesimpulan
 
